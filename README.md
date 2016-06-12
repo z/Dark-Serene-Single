@@ -13,3 +13,7 @@ To use this theme as your default reddit theme, please visit: https://www.reddit
 
 For a light version of this theme, please visit https://www.reddit.com/r/serene/ if you want to use it as your default reddit theme.
 Or, https://www.reddit.com/r/serenesingle if you want to use it for your personal subreddit.
+
+---
+
+To replace reddit tokens with base64 encoded strings for use with userstyles, run: `python userstyle.py` and copy the output to your userstyle.
